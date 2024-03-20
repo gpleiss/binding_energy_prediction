@@ -1,0 +1,9 @@
+gpytorch>=1.11
+jupyter
+matplotlib>=3.3.0
+notebook>=7.0.0
+numpy
+pandas
+rdkit
+torch>=2.0.0
+tqdm
